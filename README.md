@@ -1,7 +1,7 @@
 # Health
 
-Grace’s system health subsystem. It currently provides the `agi_logging` ROS 2
-package, which persists ROS log events and broadcasts them for other Grace
+AIVA’s system health subsystem. It currently provides the `agi_logging` ROS 2
+package, which persists ROS log events and broadcasts them for other AIVA
 components. The repository is intended to grow to include error reporting,
 runtime monitoring, and health checks.
 
@@ -24,7 +24,7 @@ tree:
 
 ```sh
 cd ~/AGi/AIVA
-git clone https://github.com/AGi-robot/health.git health
+git clone https://github.com/Project-AGi/health.git health
 ln -s ../../health shell/src/agi_logging
 ```
 
