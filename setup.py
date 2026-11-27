@@ -14,7 +14,7 @@ setup(
     zip_safe=True,
     maintainer="OppaAI",
     maintainer_email="oppa.ai.org@gmail.com",
-    description="Grace health event logging and ROS log broadcast",
+    description="AIVA health event logging and ROS log broadcast",
     license="AGPL-3.0-only",
     entry_points={"console_scripts": ["agi_log_collector = agi_logging.collector:main"]},
 )

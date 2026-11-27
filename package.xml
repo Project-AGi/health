@@ -3,7 +3,7 @@
 <package format="3">
   <name>agi_logging</name>
   <version>0.1.0</version>
-  <description>Grace health event logging and ROS log broadcast</description>
+  <description>AIVA health event logging and ROS log broadcast</description>
   <maintainer email="oppa.ai.org@gmail.com">OppaAI</maintainer>
   <license>AGPL-3.0-only</license>
   <buildtool_depend>ament_python</buildtool_depend>
